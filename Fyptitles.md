@@ -37,7 +37,7 @@ Create a security system for heritage buildings using IoT sensors and a web inte
 # 13. Heritage Artifact Preservation Using IoT-Driven UV Light Monitoring
 Design an IoT system to monitor UV light exposure on artifacts in heritage museums, with data accessible through a web application for curators.
 
-# 14. IoT-Enabled Visitor Management System for Heritage Sites
+# 14. [IoT-Enabled Visitor Management System for Heritage Sites](number14.md)
 Create a web-based visitor management system for heritage sites using IoT sensors to track visitor flow and provide data analytics for managing crowds and preventing overuse.
 
 # 15. IoT-Driven Vibration Monitoring System for Historic Structures
